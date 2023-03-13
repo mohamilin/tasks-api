@@ -12,3 +12,5 @@
 4. Jalankan `npm install`
 5. Jalankan `npm run dev` pada port `8002`
 6. Untuk menjalankan API bisa menyalin collection berikut : https://api.postman.com/collections/7806854-91673d0f-76f7-4c37-9608-7d1394935533?access_key=PMAT-01GVDHCV4PC9F1DPG3AYHTJE0W
+
+7. Apabila ada kendala dalam menjalankan postman dapat hubungi : amilinmoh99@gmail.com
