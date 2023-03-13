@@ -4,7 +4,7 @@
 1. clone project from https://github.com/mohamilin/tasks-api
     - run on terminal : git clone https://github.com/mohamilin/tasks-api
 2. Buat file .env di dalam project `tasks-api` dan salin isinya dari .env.example
-3. Buat konfigurasi database kemudian masukkan ke dalam .env
+3. Buat konfigurasi database `postgreSQL` kemudian masukkan ke dalam .env
     - Lengkapi environment berikut :
         - DB_NAME_DEV=
         - DB_USERNAME_DEV=
